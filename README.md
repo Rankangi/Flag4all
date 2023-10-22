@@ -4,7 +4,7 @@
 
 - Prog
    - ✅ [Shortpath](Prog/Shortpath/README.md)
-   - ✅ [bashcat](Prog/bashcat/README.md)
+   - ✅🩸 [bashcat](Prog/bashcat/README.md)
    - ✅ [CaptainMacTusk](Prog/CaptainMacTusk/README.md)
 - Crypto
    - ✅ [Crypt My Loop](Crypto/CryptMyLoop/README.md)
