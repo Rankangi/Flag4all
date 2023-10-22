@@ -14,4 +14,5 @@
 
 ### Contact : 
 [LinkedIn](https://www.linkedin.com/in/mathieu-bannwarth/)
+
 [Discord](https://discord.com/users/335381590505160704)
