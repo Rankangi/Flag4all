@@ -221,4 +221,4 @@ if __name__ == '__main__':
     path = main(maze)
 
     s.send(str(path).encode() + b"\n")
-    print(s.recv(4096))
+    print(s.recv(4096).decode())
