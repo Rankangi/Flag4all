@@ -1,6 +1,5 @@
-CaptainMacTusk
-499
-Difficile
+# CaptainMacTusk
+### 499 | Difficile
 
 le Captain MacTusk prévoit une attaque imminente.A vous de décoder le message le plus rapidement possible en mettant en relation les deux informations données. Lien pour le message :
 
@@ -11,14 +10,14 @@ https://capitainmactusk.flag4all.sh/index.php/index.php?rep= ( au format md5) Le
 
 Auteur : Zancrows (BZHack)
 
-Output :
+#### Output :
 ![Alt text](image.png)
 
-Réflexion :
+#### Réflexion :
 La page nous affiche deux choses. Un nombre ainsi qu'une image contenant ce qui semble être du code morse.
 Le but est de s'occuper d'abord du code morse puis de finir par trouver le lien entre les deux.
 
-Solution :
+#### Solution :
 Pour le code morse je suis parti d'un lecteur de morse dans une image : https://github.com/eauxfolles/morse-ocr
 J'ai modifié le début du code afin de récupére les deux informations (nombre + image)
 En regardant l'image je remarque que les éléments sont regroupés par "mots". Chaque ligne comporte toujours le même nombre de mot et l'image contient toujours le même nombre de ligne.
