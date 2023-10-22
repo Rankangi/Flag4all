@@ -14,4 +14,5 @@ iv = 16 * '\x00'
 aes = AES.new(key, AES.MODE_CBC, iv)
 plaintext = aes.decrypt(ciphertext)
 s2 = plaintext.hex()[:32]
+print(s2)
 print(unhexlify(hex(int(s1,16) ^ int(s2, 16))[2:]))
