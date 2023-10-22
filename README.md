@@ -11,3 +11,7 @@
    - ✅ [XOR](Crypto/XOR/README.md)
    - ✅ [AES IV](Crypto/AESIV/README.md)
    - ✅ [RSA Primes](Crypto/RSAPrime/README.md)
+
+### Contact : 
+[LinkedIn](https://www.linkedin.com/in/mathieu-bannwarth/)
+[Discord](https://discord.com/users/335381590505160704)
